@@ -1,0 +1,33 @@
+body {
+    background-color: #5c4084;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .container {
+    padding: 40px 80px 15px 80px;
+    background-color: #fff;
+    border-radius: 8px;
+  }
+  
+  .heading h1 {
+    background: -webkit-linear-gradient(#fff, #999);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+    margin: 0 0 5px 0;
+    font-weight: 900;
+    font-size: 4rem;
+    color: #fff;
+  }
+  .heading h4 {
+    color: #a990cc;
+    text-align: center;
+    margin: 0 0 35px 0;
+    font-weight: 400;
+    font-size: 24px;
+  }
+  
+  .form-group {
+    margin-bottom: 25px;
+  }
